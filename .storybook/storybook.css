@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+
+/* * {
+  border: 1px solid grey;
+} */
+/* input:active + label ,
+input:focus + label {
+  border: 1px solid red;
+  background-color: black !important;
+}
+input:disabled + label {
+  background-color: red;
+
+
+} */
+* {
+  font-family: 'Montserrat', sans-serif;
+}
